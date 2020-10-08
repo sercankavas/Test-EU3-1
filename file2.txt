@@ -1,2 +1,6 @@
 THIS IS MY FILE 2 
 About to be statged and committed
+Added more stuff
+chnages
+changes
+this is not my repo but i want topush sth. FORK IT!!
